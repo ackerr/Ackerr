@@ -1,0 +1,32 @@
+name: Build
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches: master
+
+jobs:
+  wakatime:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up git repo
+        uses: actions/checkout@v2
+
+      - name: Set up python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+
+      - name: Install python dependencies
+        run: pip install requests
+
+      - name: Generate README
+        run: python wakatime.py
+
+      - name: Commit and Push
+        run: |-
+          git config --local user.email "wzmmmmj@gmail.com"
+          git config --local user.name "Ackerr"
+          git commit -m "Build README" -a || exit 0
+          git push
