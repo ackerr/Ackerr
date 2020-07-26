@@ -7,7 +7,7 @@ Originally wanted to change to [Ackerman](https://zh.moegirl.org/zh-hans/%E4%B8%
 <!-- WakaTime Start -->
 ```text
 Python      23 hrs 31 mins ████████▋░░░░░░░░░░░░  41.2%
-Other       19 hrs 13 mins ███████░░░░░░░░░░░░░░  33.6%
+Browser     19 hrs 13 mins ███████░░░░░░░░░░░░░░  33.6%
 Go          6 hrs 2 mins   ██▏░░░░░░░░░░░░░░░░░░  10.6%
 SQL         2 hrs 23 mins  ▉░░░░░░░░░░░░░░░░░░░░   4.2%
 Makefile    1 hr 8 mins    ▍░░░░░░░░░░░░░░░░░░░░   2.0%

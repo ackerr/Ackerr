@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: "0 0 * * *"
   push:
-    branches: master
+    branches: [master]
 
 jobs:
   wakatime:
@@ -26,7 +26,7 @@ jobs:
 
       - name: Commit and Push
         run: |-
-          git config --local user.email "wzmmmmj@gmail.com"
-          git config --local user.name "Ackerr"
+          git config --local user.email "bot@github.com"
+          git config --local user.name "Ackerr-box"
           git commit -m "Build README" -a || exit 0
-          git push
+          git pull & git push

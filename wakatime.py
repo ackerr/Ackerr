@@ -6,7 +6,7 @@ gist = "https://gist.githubusercontent.com/Ackerr/22090c7f0e7817c8369b65d66c9198
 
 if __name__ == "__main__":
     response = requests.get(gist)
-    wakatime = f"\n```text\n{response.text}\n```\n"
+    wakatime = f"\n```text\n{response.text}\n```\n".replace("Other  ", "Browser")
 
     template = "<!-- WakaTime Start -->{}<!-- WakaTime End -->"
 
