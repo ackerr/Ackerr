@@ -6,3 +6,7 @@ Originally wanted to change to [Ackerman](https://zh.moegirl.org/zh-hans/%E4%B8%
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ackerr&hide=html&layout=compact" />
 </a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ackerr&hide=contribs,issues&count_private=true" />
+</a>
