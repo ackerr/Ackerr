@@ -1,12 +1,10 @@
-### Ackerr✨
+**Acker** has been registered, so changed to **Ackerr✨**
 
-Originally wanted to change to [Ackerman](https://zh.moegirl.org/zh-hans/%E4%B8%89%E7%AC%A0%C2%B7%E9%98%BF%E5%85%8B%E6%9B%BC), but it has 8 chars, too long, and **Acker** has been registered, so changed to **Ackerr**
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ackerr&hide=html&layout=compact&card_width=250" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ackerr&hide=contribs,issues&count_private=true" />
-</a>
+<p>
+  <a href="https://github.com/RitterHou?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ackerr&hide=html,css&layout=compact" height="155"/>
+  </a>
+  <a href="https://www.wzmmmmj.com">
+    <img src="https://github-readme-stats.vercel.app/api?username=ackerr&show_icons=false&&hide=contribs,issues" width="515"/>
+  </a>
+</p>
