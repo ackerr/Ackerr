@@ -1,5 +1,3 @@
-**Acker** has been registered, so changed to **Ackerr✨**
-
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
