@@ -3,15 +3,16 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 13 mins       █████████████░░░░░░░░░░░░   51.81 % 
+Python                   2 hrs 4 mins        ████████████░░░░░░░░░░░░░   48.19 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   4 hrs 18 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2025/05/08 01:49:04 UTC
+ Last Updated on 2025/05/09 01:48:34 UTC
 <!--END_SECTION:waka-->
