@@ -3,16 +3,15 @@
 
 ```text
 💬 Programming Languages: 
-zsh                      6 mins              ███████████████░░░░░░░░░░   58.67 % 
-Bash                     4 mins              ██████████░░░░░░░░░░░░░░░   41.33 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      10 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 2026/02/19 02:33:09 UTC
+ Last Updated on 2026/02/20 02:28:30 UTC
 <!--END_SECTION:waka-->
