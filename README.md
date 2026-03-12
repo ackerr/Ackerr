@@ -3,20 +3,20 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 9 mins        ███████████░░░░░░░░░░░░░░   44.54 % 
-TypeScript               1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
-Python                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-JSON                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-conf                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Markdown                 2 hrs 9 mins        █████████████░░░░░░░░░░░░   53.15 % 
+TypeScript               38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Python                   26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+JSON                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Makefile                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 7 mins        █████████████████████░░░░   85.06 % 
-Neovim                   43 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Cursor                   3 hrs 53 mins       ████████████████████████░   96.02 % 
+Neovim                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 
 💻 Operating System: 
-Mac                      4 hrs 50 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2026/03/11 02:24:04 UTC
+ Last Updated on 2026/03/12 02:29:56 UTC
 <!--END_SECTION:waka-->
