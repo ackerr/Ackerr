@@ -3,20 +3,20 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 40 mins       ███████████████████░░░░░░   74.26 % 
-YAML                     1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+TypeScript               3 hrs 51 mins       ██████████████████░░░░░░░   70.92 % 
+YAML                     1 hr 34 mins        ███████░░░░░░░░░░░░░░░░░░   28.89 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 24 mins       ██████████████████░░░░░░░   70.87 % 
-VS Code                  1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
-Neovim                   57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Cursor                   3 hrs 30 mins       ████████████████░░░░░░░░░   64.52 % 
+VS Code                  1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+Neovim                   52 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
 
 💻 Operating System: 
-Mac                      7 hrs 38 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2026/03/25 02:34:21 UTC
+ Last Updated on 2026/03/26 02:41:36 UTC
 <!--END_SECTION:waka-->
