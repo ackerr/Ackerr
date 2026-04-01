@@ -3,21 +3,22 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 48 mins       ███████████████████░░░░░░   75.22 % 
-YAML                     1 hr 25 mins        ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
-Docker                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-Browser                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+TypeScript               4 hrs 6 mins        ███████████████████░░░░░░   75.55 % 
+YAML                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Browser                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 21 mins       █████████████████████░░░░   83.68 % 
-VS Code                  56 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Claude Code              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Cursor                   4 hrs 43 mins       ██████████████████████░░░   86.68 % 
+Claude Code              17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Neovim                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 
 💻 Operating System: 
-Mac                      6 hrs 23 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2026/03/31 02:43:25 UTC
+ Last Updated on 2026/04/01 02:55:29 UTC
 <!--END_SECTION:waka-->
