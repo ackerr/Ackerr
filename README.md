@@ -3,22 +3,22 @@
 
 ```text
 💬 Programming Languages: 
-Browser                  2 hrs 28 mins       ████████████░░░░░░░░░░░░░   46.28 % 
-Python                   2 hrs 1 min         █████████░░░░░░░░░░░░░░░░   37.99 % 
-TypeScript               30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-TOML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-zsh                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Browser                  2 hrs 45 mins       ████████████░░░░░░░░░░░░░   46.05 % 
+Python                   2 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   33.84 % 
+TypeScript               30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+TOML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+INI                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 58 mins       ██████████████░░░░░░░░░░░   55.55 % 
-Unknown Editor           1 hr 52 mins        █████████░░░░░░░░░░░░░░░░   35.05 % 
-Neovim                   28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-Cursor                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Claude Code              3 hrs 11 mins       █████████████░░░░░░░░░░░░   53.13 % 
+Unknown Editor           2 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   36.31 % 
+Neovim                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+Cursor                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 
 💻 Operating System: 
-Mac                      5 hrs 21 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs               █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 2026/04/30 03:33:38 UTC
+ Last Updated on 2026/05/01 03:44:25 UTC
 <!--END_SECTION:waka-->
