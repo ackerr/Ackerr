@@ -31,3 +31,4 @@ jobs:
           SHOW_COMMIT: "False"
           SHOW_UPDATED_DATE: "True"
           UPDATED_DATE_FORMAT: "%Y/%m/%d %H:%M:%S"
+          SHOW_AI_CODE_TIME: "False"
