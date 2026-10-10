@@ -1,25 +1,7 @@
-<!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs%2037%20mins-blue?style=flat)
+<div align="center">
 
-📊 **This Week I Spent My Time On** 
+<img src="assets/neovim-avatar.svg" width="280" alt="Ackerr’s colorful Neovim startup portrait">
 
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
+My name comes from **Ackerman** — eight letters felt too long, **Acker** was taken
 
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-
- Last Updated on 2026/10/10 04:03:11 UTC
-<!--END_SECTION:waka-->
+</div>
