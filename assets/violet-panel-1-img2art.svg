@@ -1,16 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1320" height="528" viewBox="0 0 1320 528" role="img" aria-labelledby="title">
-<title id="title">Violet Evergarden animated pixel art, panel 1</title>
+<title id="title">Violet Evergarden pixel art, panel 1</title>
 <!-- img2art 0.4.3: scale=0.5, threshold=8, quant=128. -->
-<defs><pattern id="dots" width="2" height="2" patternUnits="userSpaceOnUse"><rect width="1.82" height="1.82" fill="white"/></pattern><mask id="dot-mask"><rect width="1320" height="528" fill="url(#dots)"/></mask><style>@media (prefers-reduced-motion: reduce) { .hair-motion, .hair-shine { display: none; } }</style>
-<radialGradient id="hair-feather" gradientUnits="userSpaceOnUse" cx="850" cy="190" r="390"><stop offset="0" stop-color="white"/><stop offset="0.72" stop-color="white"/><stop offset="1" stop-color="black"/></radialGradient>
-<linearGradient id="hair-light" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="white" stop-opacity="0"/><stop offset="0.5" stop-color="#ffe7a8" stop-opacity="0.75"/><stop offset="1" stop-color="white" stop-opacity="0"/></linearGradient>
-<mask id="hair-mask" maskUnits="userSpaceOnUse" x="0" y="0" width="1320" height="528">
-  <rect width="1320" height="528" fill="black"/>
-  <ellipse cx="850" cy="190" rx="390" ry="330" fill="url(#hair-feather)"/>
-  <ellipse cx="705" cy="420" rx="130" ry="165" fill="white" opacity="0.52"/>
-  <ellipse cx="675" cy="320" rx="108" ry="148" fill="black"/>
-</mask></defs>
-<g id="art" mask="url(#dot-mask)">
+<defs><pattern id="dots" width="2" height="2" patternUnits="userSpaceOnUse"><rect width="1.82" height="1.82" fill="white"/></pattern><mask id="dot-mask"><rect width="1320" height="528" fill="url(#dots)"/></mask></defs>
+<g mask="url(#dot-mask)">
 <path fill="#665850" d="M0 0h112v8h-112zM140 0h8v8h-8zM204 0h8v8h-8zM220 0h12v8h-12zM0 8h76v8h-76zM84 8h12v8h-12zM100 8h4v8h-4zM144 8h8v8h-8zM0 16h68v8h-68zM0 24h48v8h-48z"/>
 <path fill="#62544d" d="M112 0h4v8h-4zM120 0h4v8h-4zM132 0h4v8h-4zM152 0h4v8h-4zM192 0h4v8h-4zM208 8h4v8h-4zM228 8h4v8h-4zM68 16h4v8h-4z"/>
 <path fill="#63554e" d="M116 0h4v8h-4zM128 0h4v8h-4zM204 8h4v8h-4zM212 8h4v8h-4zM528 80h4v8h-4z"/>
@@ -2393,15 +2385,5 @@
 <path fill="#6b2930" d="M1040 520h4v8h-4z"/>
 <path fill="#50242a" d="M1044 520h4v8h-4z"/>
 <path fill="#36242a" d="M1160 520h4v8h-4z"/>
-</g>
-<g class="hair-motion" mask="url(#hair-mask)" opacity="0.48">
-  <use href="#art">
-    <animateTransform attributeName="transform" type="translate" values="0 0;1.6 -0.7;0 0;-1.1 0.6;0 0" keyTimes="0;0.25;0.5;0.75;1" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1" dur="8.2s" repeatCount="indefinite"/>
-  </use>
-</g>
-<g class="hair-shine" mask="url(#hair-mask)" opacity="0.08">
-  <rect x="-360" width="280" height="528" fill="url(#hair-light)">
-    <animate attributeName="x" values="-360;1400" dur="14s" repeatCount="indefinite"/>
-  </rect>
 </g>
 </svg>
