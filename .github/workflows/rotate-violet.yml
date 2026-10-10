@@ -1,0 +1,48 @@
+name: Rotate Violet artwork
+
+on:
+  schedule:
+    # 08:17 in China Standard Time (UTC+8).
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  rotate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pick a different artwork
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+          from secrets import choice
+
+          readme = Path("README.md")
+          candidates = sorted(Path("assets").glob("violet-panel-*-img2art.svg"))
+          assert len(candidates) == 3
+
+          text = readme.read_text()
+          pattern = re.compile(r"assets/violet-panel-[123]-img2art\.svg")
+          current = pattern.search(text)
+          assert current
+
+          available = [candidate for candidate in candidates if candidate.as_posix() != current.group()]
+          selected = choice(available)
+          updated, replacements = pattern.subn(selected.as_posix(), text, count=1)
+          assert replacements == 1
+          readme.write_text(updated)
+          print(f"Selected {selected}")
+          PY
+
+      - name: Commit artwork
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Rotate daily Violet artwork"
+          git push
