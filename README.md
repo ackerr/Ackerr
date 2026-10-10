@@ -1,5 +1,5 @@
 <div align="center">
 
-<img src="assets/violet-panel-3-img2art.svg" width="900" height="350" alt="Violet Evergarden pixel art">
+<img src="assets/violet-img2art.svg" width="900" height="350" alt="Violet Evergarden animated pixel art">
 
 </div>
