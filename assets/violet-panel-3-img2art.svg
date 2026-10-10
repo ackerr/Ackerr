@@ -1,8 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1320" height="528" viewBox="0 0 1320 528" role="img" aria-labelledby="title">
-<title id="title">Violet Evergarden pixel art, panel 3</title>
+<title id="title">Violet Evergarden animated pixel art, panel 3</title>
 <!-- img2art 0.4.3: scale=0.5, threshold=8, quant=128. -->
-<defs><pattern id="dots" width="2" height="2" patternUnits="userSpaceOnUse"><rect width="1.82" height="1.82" fill="white"/></pattern><mask id="dot-mask"><rect width="1320" height="528" fill="url(#dots)"/></mask></defs>
-<g mask="url(#dot-mask)">
+<defs><pattern id="dots" width="2" height="2" patternUnits="userSpaceOnUse"><rect width="1.82" height="1.82" fill="white"/></pattern><mask id="dot-mask"><rect width="1320" height="528" fill="url(#dots)"/></mask><style>@media (prefers-reduced-motion: reduce) { .hair-motion, .hair-shine { display: none; } }</style>
+<radialGradient id="hair-feather" gradientUnits="userSpaceOnUse" cx="850" cy="190" r="390"><stop offset="0" stop-color="white"/><stop offset="0.72" stop-color="white"/><stop offset="1" stop-color="black"/></radialGradient>
+<linearGradient id="hair-light" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="white" stop-opacity="0"/><stop offset="0.5" stop-color="#ffe7a8" stop-opacity="0.75"/><stop offset="1" stop-color="white" stop-opacity="0"/></linearGradient>
+<mask id="hair-mask" maskUnits="userSpaceOnUse" x="0" y="0" width="1320" height="528">
+  <rect width="1320" height="528" fill="black"/>
+  <ellipse cx="850" cy="190" rx="390" ry="330" fill="url(#hair-feather)"/>
+  <ellipse cx="705" cy="420" rx="130" ry="165" fill="white" opacity="0.52"/>
+  <ellipse cx="675" cy="320" rx="108" ry="148" fill="black"/>
+</mask></defs>
+<g id="art" mask="url(#dot-mask)">
 <path fill="#90817b" d="M0 0h132v8h-132zM160 0h8v8h-8zM276 0h8v8h-8zM0 8h124v8h-124zM128 8h12v8h-12zM160 8h4v8h-4zM176 8h4v8h-4zM184 8h8v8h-8zM248 8h4v8h-4zM0 16h16v8h-16zM20 16h4v8h-4zM76 16h28v8h-28zM108 16h12v8h-12zM124 16h48v8h-48zM236 16h28v8h-28zM308 16h4v8h-4zM320 16h4v8h-4zM32 24h20v8h-20zM72 24h8v8h-8zM108 24h8v8h-8zM120 24h72v8h-72zM208 24h4v8h-4zM248 24h48v8h-48zM36 32h12v8h-12zM64 32h20v8h-20zM124 32h44v8h-44zM176 32h36v8h-36zM284 32h16v8h-16zM28 40h16v8h-16zM48 40h32v8h-32zM144 40h20v8h-20zM180 40h36v8h-36zM256 40h8v8h-8zM20 48h8v8h-8zM32 48h8v8h-8zM48 48h24v8h-24zM208 48h8v8h-8zM508 48h4v8h-4zM20 56h8v8h-8zM124 56h4v8h-4zM152 56h8v8h-8zM216 56h8v8h-8zM228 56h48v8h-48zM8 64h12v8h-12zM72 64h4v8h-4zM152 64h8v8h-8zM252 64h4v8h-4zM0 72h16v8h-16zM72 72h12v8h-12zM132 72h12v8h-12zM152 72h4v8h-4zM68 80h4v8h-4zM180 80h8v8h-8zM108 88h4v8h-4zM116 88h4v8h-4zM520 120h4v8h-4z"/>
 <path fill="#8d7e79" d="M132 0h8v8h-8zM236 0h8v8h-8zM256 0h4v8h-4zM268 0h4v8h-4zM356 16h8v8h-8zM72 48h4v8h-4z"/>
 <path fill="#8d7f7a" d="M140 0h4v8h-4zM156 0h4v8h-4zM284 0h4v8h-4zM532 0h4v8h-4zM140 8h4v8h-4zM180 8h4v8h-4zM200 8h16v8h-16zM252 8h8v8h-8zM172 16h4v8h-4zM232 16h4v8h-4zM304 16h4v8h-4zM52 24h4v8h-4zM60 32h4v8h-4zM84 32h4v8h-4zM80 40h4v8h-4zM120 40h4v8h-4zM140 40h4v8h-4zM176 40h4v8h-4zM512 40h4v8h-4zM40 48h4v8h-4zM156 48h4v8h-4zM184 48h4v8h-4zM120 56h4v8h-4zM212 56h4v8h-4zM20 64h4v8h-4zM144 64h8v8h-8zM160 64h12v8h-12zM16 72h4v8h-4zM120 72h12v8h-12zM148 72h4v8h-4zM0 80h4v8h-4zM64 80h4v8h-4zM80 80h8v8h-8zM104 80h4v8h-4zM176 80h4v8h-4zM188 80h4v8h-4zM504 80h4v8h-4zM64 88h8v8h-8zM100 88h4v8h-4zM112 88h4v8h-4zM120 88h4v8h-4zM64 96h4v8h-4zM532 152h4v8h-4z"/>
@@ -2864,5 +2872,15 @@
 <path fill="#4a505a" d="M1068 520h4v8h-4z"/>
 <path fill="#484c59" d="M1072 520h4v8h-4z"/>
 <path fill="#3d333d" d="M1196 520h8v8h-8zM1212 520h4v8h-4z"/>
+</g>
+<g class="hair-motion" mask="url(#hair-mask)" opacity="0.48">
+  <use href="#art">
+    <animateTransform attributeName="transform" type="translate" values="0 0;1.6 -0.7;0 0;-1.1 0.6;0 0" keyTimes="0;0.25;0.5;0.75;1" calcMode="spline" keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1" dur="9.4s" repeatCount="indefinite"/>
+  </use>
+</g>
+<g class="hair-shine" mask="url(#hair-mask)" opacity="0.08">
+  <rect x="-360" width="280" height="528" fill="url(#hair-light)">
+    <animate attributeName="x" values="-360;1400" dur="16s" repeatCount="indefinite"/>
+  </rect>
 </g>
 </svg>
